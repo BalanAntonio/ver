@@ -1,4 +1,20 @@
 body{
     text-align: center;
-    font-size: 0.75cm;
+    font-size: 0.5cm;
+}
+
+#titolo{
+    font-family: Apple Chancery, cursive;
+    font-size: 2cm;
+}
+
+#lista{
+    display: flex;
+}
+
+li{
+    width: 4cm;
+    border: 5px solid black;
+    padding: 50px;
+    margin: 20px;
 }
